@@ -1,2 +1,2 @@
-# Mina Kaggle-projekt
+# My Kaggle-projects are found here
 
